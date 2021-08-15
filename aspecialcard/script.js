@@ -76,5 +76,5 @@ if (day1 >= day2) {
 } else {
     var difference= Math.abs(day2-day1);
     days = difference/(1000 * 3600 * 24)
-    document.getElementById("days").innerHTML = days+" days left";
+    document.getElementById("days").innerHTML = days+" day(s) left";
 }
