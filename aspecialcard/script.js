@@ -55,7 +55,7 @@ hr1.addEventListener('click', () => {
                                 five.classList.add('hide');
                                 six.classList.add('hide');
                                 seven.classList.add('hide');  
-                                window.location.reload();                 
+                                window.location.replace("aa/index.html");            
                             })
                         })
                     })
